@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "jdcloud",
+  "binary": "jdcloud-ssl.exe",
+  "capability": "deploy",
+  "category": "ssl",
+  "display_name_key": "plugin.jdcloud-ssl.name",
+  "icon": "jdcloud.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "jdcloud-ssl",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
